@@ -1,20 +1,18 @@
-<img src="https://flinchlab.com/og/home.png" alt="FlinchLab" width="560" />
+<img src="https://huggingface.co/spaces/Flinchlab/README/resolve/main/wordmark.png" alt="FlinchLab" width="480" />
 
-**The market's reaction to every kind of SEC 8-K news, measured properly.**
+**Verified event data from every SEC 8-K.**
 
-FlinchLab reads what SEC 8-K filings actually say, sorts them into
-categories finer than the official item codes, and measures each
-category's historical price reaction — 29,331 filings, 660 US companies,
-every published finding validated on two independent out-of-sample
-holdouts, refutations published next to the wins.
+FlinchLab is building verified event data from every SEC 8-K: what each filing actually said,
+labelled from its own words, for every filer since 2022. Each label that states what a company did
+cites the sentence in the filing that says so, and carries the filing's public acceptance time.
+
+**The earlier release (v0.1.1) is retired.** The new release is in preparation. Early access opens at
+the end of November 2026: https://flinchlab.com
 
 | | |
 |---|---|
-| 🗃️ [Free sample + methodology](https://github.com/FlinchLab/sec-8k-market-reaction-sample) | this org's data repo — DOI badge, dictionary, citation |
-| ❓ [Every question, answered free](https://flinchlab.com/insights) | 20 answer pages with figures and holdout results |
-| 📈 [The results table](https://flinchlab.com) | every filing type, sliceable |
-| 📦 [The complete dataset](https://flinchlab.com/dataset) | $99 one-time, one licence for commercial + academic + personal |
+| [Early access](https://flinchlab.com/dataset) | what is included, coverage and terms |
+| [Notes and answers](https://flinchlab.com/insights) | what 8-K filings say and when the market hears it |
+| [Home](https://flinchlab.com) | request early access |
 
-Also on [Hugging Face](https://huggingface.co/Flinchlab) ·
-[Kaggle](https://www.kaggle.com/datasets/systain/sec-8k-market-reaction-dataset) ·
-[Zenodo (DOI)](https://doi.org/10.5281/zenodo.21986317)
+Research data, not investment advice. Contact: data@flinchlab.com
